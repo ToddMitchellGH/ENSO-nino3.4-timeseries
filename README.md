@@ -6,7 +6,7 @@ anomalies) is an indicator of the polarity and strength of the El Nino
 temperature anomalies in this area affect local precipitation which
 modifies the Northern Hemisphere atmospheric circulation during
 Northern Hemisphere winter and spring seasons, resulting in significant
-temperature and precpiation anomalies.   Ocean temerature fluctuations
+temperature and precpitation anomalies.   Ocean temerature fluctuations
 in this region also influence climate throughout the tropics and in the
 Southern Hemisphere in its winter and spring seasons.
 
