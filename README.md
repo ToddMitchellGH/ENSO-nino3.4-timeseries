@@ -10,7 +10,7 @@ temperature and precpiation anomalies.   Ocean temerature fluctuations
 in this region also influence climate throughout the tropics and in the
 Southern Hemisphere in its winter and spring seasons.
 
-!(https://github.com/ToddMitchellGH/Small-Analyses/blob/master/nino34september2019.png)
+![alt text](https://github.com/ToddMitchellGH/Small-Analyses/blob/master/nino34september2019.png)
 
 The September 2019 update is interesting because the warm anomalies of
 the past 12-months have been dramatically erased in the last month,
