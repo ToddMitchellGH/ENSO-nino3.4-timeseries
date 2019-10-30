@@ -7,15 +7,14 @@ temperature anomalies in this area affect local precipitation which
 modifies the Northern Hemisphere atmospheric circulation during
 Northern Hemisphere winter and spring seasons, resulting in significant
 temperature and precpiation anomalies.   Ocean temerature fluctuations
-in this region also influene climate throughout the tropics and in the
+in this region also influence climate throughout the tropics and in the
 Southern Hemisphere in its winter and spring seasons.
 
-!(https://github.com/ToddMitchellGH/Small-Analyses/nino34september2019.png)
+!(https://github.com/ToddMitchellGH/Small-Analyses/blob/master/nino34september2019.png)
+
 The September 2019 update is interesting because the warm anomalies of
 the past 12-months have been dramatically erased in the last month,
-with September 2019 anomaly of essentialy zero.
-
-Typically the sign of the Nino 3.4 SST deviation in July is maintained
+with September 2019 anomaly of essentialy zero.  Typically the sign of the Nino 3.4 SST deviation in July is maintained
 through at least February-March of the following year.  In 2019, the
 anomously warm conditions of May-June-July-August disappated in a
 single month.
