@@ -9,8 +9,12 @@ this figure in this notebook.
 <!-- ![alt text](https://github.com/ToddMitchellGH/Small-Analyses/blob/master/nino34september2019.png) -->
 <img src="sstanomnino342010jun2021.png" alt="Nino3.4 anomaly timeseries for 2010 - June 2021" width="750">
 
-Fluctuations in this index are associated with the following pattern (shading) in SST anomalies.
-<img src="
+Positive values of this index are associated with positive SST anomalies (red shading) in the equatorial Pacific 
+Ocean from approximately 160°E to the South American coast, and small SST anomalies elsewhere.   Surface
+wind anomalies tend to converge into the region of above normal SSTs.  
+<img src="ENSO SST Sfc wind.png" alt="ENSO SST - Sfc vector wind patter" width="750">
+
+The region of above normal SSTs is associated with above normal preciptation.
 
 ocean
 temperature anomalies in this area affect local precipitation which
