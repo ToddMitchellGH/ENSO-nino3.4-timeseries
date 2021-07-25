@@ -3,12 +3,15 @@
 The Nino 3.4 region sea surface temperature (SST) deviations from climatology (also called
 anomalies) is an indicator of the polarity and strength of the El Nino
 / Southern Oscillation phenomenon.  The Nino 3.4 region is the central equatorial Pacific Ocean (5°N-5°S 120-70°W),
-and the timeseries of monthly SST anomalies exhibits large year to year fluctuations that define ENSO.
+and the timeseries of monthly SST anomalies exhibits large year to year fluctuations that define ENSO.  I update
+this figure in this notebook.
 
 <!-- ![alt text](https://github.com/ToddMitchellGH/Small-Analyses/blob/master/nino34september2019.png) -->
 <img src="sstanomnino342010jun2021.png" alt="Nino3.4 anomaly timeseries for 2010 - June 2021" width="750">
 
-25 July 2021: I am updating the text and adding pictures today.  Stay tuned!
+Fluctuations in this index are associated with the following pattern (shading) in SST anomalies.
+<img src="
+
 ocean
 temperature anomalies in this area affect local precipitation which
 modifies the Northern Hemisphere atmospheric circulation during
