@@ -8,6 +8,7 @@ and the timeseries of monthly SST anomalies exhibits large year to year fluctuat
 <!-- ![alt text](https://github.com/ToddMitchellGH/Small-Analyses/blob/master/nino34september2019.png) -->
 <img src="sstanomnino342010jun2021.png" alt="Nino3.4 anomaly timeseries for 2010 - June 2021" width="750">
 
+25 July 2021: I am updating the text and adding pictures today.  Stay tuned!
 ocean
 temperature anomalies in this area affect local precipitation which
 modifies the Northern Hemisphere atmospheric circulation during
