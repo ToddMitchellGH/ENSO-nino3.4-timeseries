@@ -7,7 +7,7 @@ and the timeseries of monthly SST anomalies exhibits large year to year fluctuat
 this figure in this notebook.
 
 <p class="aligncenter">
-![alt text](https://github.com/ToddMitchellGH/Small-Analyses/blob/master/nino34september2019.png?style=centerme)
+![alt text](https://github.com/ToddMitchellGH/Small-Analyses/blob/master/nino34september2019.png)
 <img src="sstanomnino342010jun2021.png" alt="Nino3.4 anomaly timeseries for 2010 - June 2021" width="750">
 </p>
 The dynamical fields related to fluctuations in the Nino3.4 index are documented in the following maps (<a href="Wallace_etal_1998.pdf">Wallace et al., 1998</a>) and are described below.
