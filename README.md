@@ -9,12 +9,16 @@ this figure in this notebook.
 <!-- ![alt text](https://github.com/ToddMitchellGH/Small-Analyses/blob/master/nino34september2019.png) -->
 <img src="sstanomnino342010jun2021.png" alt="Nino3.4 anomaly timeseries for 2010 - June 2021" width="750">
 
-Positive values of this index are associated with positive SST anomalies (red shading) in the equatorial Pacific 
+The dynamical fields related to fluctuations in the Nino3.4 index are documented in the following figure from <a href="Wallace_etal_1998.pdf">Wallace et al., 1998</a>
+<img src="ENSO Plate 7.png" alt="ENSO SST, Sfc. wind, ocean precipitation, tropospheric temperature" width="1000">
+
+Bottom panel: Positive values of Nino3.4 are associated with positive SST anomalies (red shading) in the equatorial Pacific 
 Ocean from approximately 160°E to the South American coast, small negative anomalies (blue shading) in the 
 western equatorial Pacific Ocean and equatorial Atlantic, and small positive SST anomalies in the Indian Ocean.
 Surface wind anomalies tend to converge into the region of above normal SSTs.  Anomalies of opposite sign are 
 associated with negative values of the index.
-<img src="ENSO Plate 7.png" alt="ENSO SST, Sfc. wind, ocean precipitation, tropospheric temperature" width="750">
+
+<img src="ENSO Plate 7.png" alt="ENSO SST, Sfc. wind, ocean precipitation, tropospheric temperature" width="1000">
 <img src="ENSO SST Sfc wind.png" alt="ENSO SST - Sfc vector wind pattern" width="750">
 <img src="ENSO dynamics reanalysis.png" alt="ENSO land and ocean precipitation and tropospheric temperature" width="750">
 <img src="ENSO dynamics.png" alt="ENSO SST - Sfc vector wind pattern" width="750">
