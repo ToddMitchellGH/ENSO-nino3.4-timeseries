@@ -18,6 +18,9 @@ Ocean from approximately 160°E to the South American coast, small positive SST 
 anomalies (blue shading) in the western equatorial Pacific Ocean and equatorial Atlantic.  Tropical surface wind anomalies
 tend to converge into the region of above normal SSTs.  Anomalies of opposite sign are associated with negative values of the index.
 
-Top panel: Positive values of Nino3.4 are associated with enhanced precipitation on the western and northern boundaries of the above normal equatorial Pacific SSTs, and warming of the lower atmosphere throughout the tropics with maxima centered 15° north and south at 130°W.
+Top panel: Positive values of Nino3.4 are associated with enhanced oceanic precipitation on the western and northern boundaries of the above normal equatorial Pacific SSTs, and warming of the lower atmosphere throughout the tropics with maxima centered 15° north and south at 130°W.
 
 Middle panel: Tropical anomalous surface winds flow down the gradient of anomalous sea level pressure.
+
+<img src="ENSO dynamics reanalysis.png" alt="ENSO land and ocean precipitation and tropospheric temperature from reanalysis" width="1000">
+Same as the Top panel above, but from the NCEP/NCAR reanalysis which includes land precipitation anomalies.
