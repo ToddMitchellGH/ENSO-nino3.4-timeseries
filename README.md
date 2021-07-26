@@ -3,11 +3,12 @@
 The Nino 3.4 region sea surface temperature (SST) deviations from climatology (also called
 anomalies) is an indicator of the polarity and strength of the El Nino
 / Southern Oscillation phenomenon.  The Nino 3.4 region is the central equatorial Pacific Ocean (5°N-5°S 120-70°W),
-and the timeseries of monthly SST anomalies exhibits large year to year fluctuations that define ENSO.  I occasionally update
-this figure in this notebook.
+and the timeseries of monthly SST anomalies exhibits large year to year fluctuations that define ENSO.  The SST
+observations are updated monthly by the Climate Prediction Center of the National Oceanic and Atmospheric
+Administration, and I occasionally update this figure here.
 
 <p class="aligncenter">
-![alt text](https://github.com/ToddMitchellGH/Small-Analyses/blob/master/nino34september2019.png)
+<!-- ![alt text](https://github.com/ToddMitchellGH/Small-Analyses/blob/master/nino34september2019.png) -->
 <img src="sstanomnino342010jun2021.png" alt="Nino3.4 anomaly timeseries for 2010 - June 2021" width="750">
 </p>
 The dynamical fields related to fluctuations in the Nino3.4 index are documented in the following maps (<a href="Wallace_etal_1998.pdf">Wallace et al., 1998</a>) and are described below.
@@ -18,6 +19,12 @@ Ocean from approximately 160°E to the South American coast, small negative anom
 western equatorial Pacific Ocean and equatorial Atlantic, and small positive SST anomalies in the Indian Ocean.
 Surface wind anomalies tend to converge into the region of above normal SSTs.  Anomalies of opposite sign are 
 associated with negative values of the index.
+
+Top panel: Positive values of Nino3.4 are associated with enhanced precipitation on the western and northern boundaries of the above normal equatorial Pacific SSTs, warming of the lower atmosphere throughout the tropics with maxima centered 15° north and south of the largest precipitation centered at 130°W.
+
+Middle panel: Anomalous surface winds flow down the gradient of anomalous sea level pressure.
+
+
 
 <img src="ENSO Plate 7.png" alt="ENSO SST, Sfc. wind, ocean precipitation, tropospheric temperature" width="1000">
 <img src="ENSO SST Sfc wind.png" alt="ENSO SST - Sfc vector wind pattern" width="750">
