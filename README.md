@@ -10,9 +10,13 @@ this figure in this notebook.
 <img src="sstanomnino342010jun2021.png" alt="Nino3.4 anomaly timeseries for 2010 - June 2021" width="750">
 
 Positive values of this index are associated with positive SST anomalies (red shading) in the equatorial Pacific 
-Ocean from approximately 160°E to the South American coast, and small SST anomalies elsewhere.   Surface
-wind anomalies tend to converge into the region of above normal SSTs.  
+Ocean from approximately 160°E to the South American coast, small negative anomalies (blue shading) in the 
+western equatorial Pacific Ocean and equatorial Atlantic, and small positive SST anomalies in the Indian Ocean.
+Surface wind anomalies tend to converge into the region of above normal SSTs.  Anomalies of opposite sign are 
+associated with negative values of the index.
 <img src="ENSO SST Sfc wind.png" alt="ENSO SST - Sfc vector wind patter" width="750">
+
+# July 25-26, 2021.  I am updating the content --- please be patient!
 
 The region of above normal SSTs is associated with above normal preciptation.
 
