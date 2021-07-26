@@ -14,7 +14,11 @@ Ocean from approximately 160°E to the South American coast, small negative anom
 western equatorial Pacific Ocean and equatorial Atlantic, and small positive SST anomalies in the Indian Ocean.
 Surface wind anomalies tend to converge into the region of above normal SSTs.  Anomalies of opposite sign are 
 associated with negative values of the index.
-<img src="ENSO SST Sfc wind.png" alt="ENSO SST - Sfc vector wind patter" width="750">
+<img src="ENSO SST Sfc wind.png" alt="ENSO SST - Sfc vector wind pattern" width="750">
+<img src="ENSO dynamics reanalysis.pdf" alt="ENSO land and ocean precipitation and tropospheric temperature" width="750">
+<img src="ENSO dynamics.pdf" alt="ENSO SST - Sfc vector wind pattern" width="750">
+
+<a href="Wallace_etal_1998.pdf">Wallace et al., 1998</a>
 
 # July 25-26, 2021.  I am updating the content --- please be patient!
 
