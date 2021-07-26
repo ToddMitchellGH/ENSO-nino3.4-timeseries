@@ -6,10 +6,11 @@ anomalies) is an indicator of the polarity and strength of the El Nino
 and the timeseries of monthly SST anomalies exhibits large year to year fluctuations that define ENSO.  I occasionally update
 this figure in this notebook.
 
-<!-- ![alt text](https://github.com/ToddMitchellGH/Small-Analyses/blob/master/nino34september2019.png) -->
+<p class="aligncenter">
+  <!-- ![alt text](https://github.com/ToddMitchellGH/Small-Analyses/blob/master/nino34september2019.png) -->
 <img src="sstanomnino342010jun2021.png" alt="Nino3.4 anomaly timeseries for 2010 - June 2021" width="750">
-
-The dynamical fields related to fluctuations in the Nino3.4 index are documented in the following figure from <a href="Wallace_etal_1998.pdf">Wallace et al., 1998</a>
+</p>
+The dynamical fields related to fluctuations in the Nino3.4 index are documented in the following maps (<a href="Wallace_etal_1998.pdf">Wallace et al., 1998</a>) and are described below.
 <img src="ENSO Plate 7.png" alt="ENSO SST, Sfc. wind, ocean precipitation, tropospheric temperature" width="1000">
 
 Bottom panel: Positive values of Nino3.4 are associated with positive SST anomalies (red shading) in the equatorial Pacific 
