@@ -8,7 +8,7 @@ observations are updated monthly by the <a href="https://www.cpc.ncep.noaa.gov/d
 Administration.  I occasionally update the figure presented here.
 
 <!-- ![alt text](https://github.com/ToddMitchellGH/Small-Analyses/blob/master/nino34september2019.png) -->
-<img src="sstanomnino342010oct2021.png" alt="Nino3.4 anomaly timeseries for 2010 - June 2021" width="750" align=center>
+<img src="sstanomnino342010oct2021.jpg" alt="Nino3.4 anomaly timeseries for 2010 - October 2021" width="750" align=center>
 
 Changes in atmospheric surface winds, precipitation, lower atmosphere temperature, sea-level pressure and sea surface temperatures related to fluctuations in the Nino3.4 index are documented in the following maps (<a href="Wallace_etal_1998.pdf">Wallace et al., 1998</a>) and are described below.
 <img src="ENSO Plate 7.png" alt="ENSO SST, Sfc. wind, ocean precipitation, tropospheric temperature" width="1000">
